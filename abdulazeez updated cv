@@ -118,7 +118,7 @@ input[type=submit]:hover {
                 }
 </script>
 
-            <br> </br>
+           
             <label for="TL">title</label>
             <input type="text" id="TL" name="title" placeholder="Your title..">
 
@@ -134,7 +134,7 @@ input[type=submit]:hover {
             <label for="subject">message</label>
             <textarea id="subject" name="message" placeholder="Write something.." style="height:200px"></textarea>
             message ="Must contain atleast 20 or more characters" >
-            <br> </br>
+           
 <script>
             <div id="message">
             myInput.onkeyup = function() {
